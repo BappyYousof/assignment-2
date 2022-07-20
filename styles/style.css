@@ -1,3 +1,56 @@
 /* google font start */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 /* google font end */
+body{
+    background-color: #fff;
+}
+.container{
+    background-color: #161616;
+    width: 1100px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+.banner-part{
+    display: flex;
+    
+
+}
+.banner-text{
+    width: 50%;
+    padding-left: 100px;
+    padding-bottom: 25px;
+}
+
+.banner-text h1{
+    color: #ffffff;
+    font-size: 70px;
+    font-weight: 700;
+
+}
+.banner-text p{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 20px;
+}
+
+.mybtn a{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 10px;
+    text-decoration: none;
+    background-color:#DD0000 ;
+    border-radius: 5px;
+    padding: 16px 25px;
+}
+.mybtn i{
+    margin-left: 20px;
+ 
+}
+.player-images img{
+    width: 520px;
+    height: 553px;
+}
