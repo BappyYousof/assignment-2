@@ -61,8 +61,6 @@ body{
     background-color: #161616;
     position: absolute;
     border-radius: 10px;
-     
-    
 }
 .menu-text button{
     display: grid;
@@ -70,6 +68,7 @@ body{
     margin-top: 10px;
     margin-left: 20px;
     border-radius: 10px;
+   
    
 }
 .menu-text button a{
@@ -85,6 +84,7 @@ body{
 }
 .menu-text span button{
     background-color: #DD0000 !important;
+    
 }
 .blog-part{
     width: 930px;
